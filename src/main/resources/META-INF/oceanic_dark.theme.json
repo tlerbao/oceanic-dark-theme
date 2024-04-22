@@ -922,7 +922,8 @@
         },
         "RunWidget" : {
             "foreground": "fg",
-            "stopBackground": "red"
+            "stopBackground": "#B54747",
+            "runningBackground": "#3B464B"
         },
         "ScreenView.borderColor": "border",
         "ScrollBar": {
