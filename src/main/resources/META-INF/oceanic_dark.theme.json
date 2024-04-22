@@ -431,7 +431,6 @@
             "active.foreground": "fg",
             "active.underlineColor": "accent",
             "background": "bg",
-            "borderColor": "second",
             "foreground": "fg",
             "hoverBackground": "hl",
             "hoverColor": "hl",
@@ -1080,7 +1079,6 @@
                 "selectionInactiveBackground": "button",
                 "selectionInactiveForeground": "fg"
             },
-            "borderColor": "bg",
             "bottomColor": "bg",
             "hoverBackground": "hl",
             "top2Color": "bg",
@@ -1292,7 +1290,6 @@
             },
             "Header": {
                 "background": "second",
-                "borderColor": "second",
                 "inactiveBackground": "bg"
             },
             "HeaderCloseButton": {
