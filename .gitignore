@@ -1,6 +1,7 @@
 # IntelliJ
 .idea
 *.iml
+.DS_Store
 
 # Gradle
 .gradle
